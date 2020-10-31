@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   
+}
+button {
+     margin: 5px;
+    padding: 1rem;
+    font-size: 2rem;
+    width:20%;
+    border-radius: 5px;
+}
+button.result,button#result {
+    width:94%;
+    background-color:#1b262c;
+    color:#fff;
+    font-size: 2.5rem;
+
+}
+
+button.clear {
+    width:46%;
+    background-color:#01c5c4;
+    color:#fff;
+}
+button.num{
+    background-color:#0f4c75;
+    color:#fff;
+}
+button.oper{
+    background-color:#01c5c4;
+    color:#fff;
+}
+
+
+main {
+    border:1px solid black;
+    margin-left:37%;
+    margin-right: 37%;
+    background-color:#1b262c;
+}
